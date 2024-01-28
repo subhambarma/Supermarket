@@ -1,3 +1,9 @@
+
+![1706111044730](https://github.com/subhambarma/Supermarket/assets/42974892/6f96a8b4-fa10-4059-b259-975ab0402e61)
+
+![Smart boy project](https://github.com/subhambarma/Supermarket/assets/42974892/fc20973e-9808-46c0-b8e0-f126df5a3a30)
+
+
 Welcome to our comprehensive Supermarket Dashboard, meticulously crafted to provide invaluable insights into the heart of our retail operations. Leveraging advanced data cleaning techniques, powerful DAX functions, and precise sales forecasting, this dashboard serves as a strategic tool to enhance decision-making processes and drive business growth.
 
 Key Features:
